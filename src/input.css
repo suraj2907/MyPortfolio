@@ -15,3 +15,6 @@
 .main-homepage{
     box-sizing: border-box;
 }
+header{
+    background-color: salmon;
+}
